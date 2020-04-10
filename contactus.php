@@ -57,7 +57,7 @@
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
 					<h3 id="myModalLabel">Sign Up Here...</h3>
-				</div>
+				</div> 
 					<div class="modal-body">
 						<center>
 					<form method="post">
